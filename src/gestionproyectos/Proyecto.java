@@ -9,4 +9,7 @@ public class Proyecto {
         this.descripcion = descripcion;
         this.tareas = tareas;
     }
+    public void calcularAvance() {
+    System.out.println("Calculando el avance del proyecto...");
+}
 }
